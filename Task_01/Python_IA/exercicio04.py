@@ -10,5 +10,5 @@ else:
 
 ids_lista = list(ids_unicos)
 print(ids_lista)
-print(ids)
+#print(ids)
 
